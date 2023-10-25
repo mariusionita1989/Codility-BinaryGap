@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-BinaryGap", "Codility-BinaryGap\Codility-BinaryGap.csproj", "{5DC8924E-D47F-4531-BA77-3DB3AFD4EFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-BinaryGapTests", "Codility-BinaryGapTests\Codility-BinaryGapTests.csproj", "{70F3DCD7-8FFD-44FC-87DC-EA8F348CECD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC8924E-D47F-4531-BA77-3DB3AFD4EFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC8924E-D47F-4531-BA77-3DB3AFD4EFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC8924E-D47F-4531-BA77-3DB3AFD4EFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC8924E-D47F-4531-BA77-3DB3AFD4EFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F3DCD7-8FFD-44FC-87DC-EA8F348CECD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F3DCD7-8FFD-44FC-87DC-EA8F348CECD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F3DCD7-8FFD-44FC-87DC-EA8F348CECD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F3DCD7-8FFD-44FC-87DC-EA8F348CECD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90670D7B-5E06-4CED-8DF1-92A45B433499}
+	EndGlobalSection
+EndGlobal
